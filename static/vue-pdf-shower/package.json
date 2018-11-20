@@ -1,0 +1,46 @@
+{
+  "_args": [
+    [
+      "vue-pdf-shower@1.0.8",
+      "E:\\GitLab\\credith5"
+    ]
+  ],
+  "_from": "vue-pdf-shower@1.0.8",
+  "_id": "vue-pdf-shower@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha1-OlnO3KjoHD2qCcU+BF8q2mBIhDw=",
+  "_location": "/vue-pdf-shower",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "vue-pdf-shower@1.0.8",
+    "name": "vue-pdf-shower",
+    "escapedName": "vue-pdf-shower",
+    "rawSpec": "1.0.8",
+    "saveSpec": null,
+    "fetchSpec": "1.0.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/vue-pdf-shower/download/vue-pdf-shower-1.0.8.tgz",
+  "_spec": "1.0.8",
+  "_where": "E:\\GitLab\\credith5",
+  "author": {
+    "name": "tjyoung"
+  },
+  "description": "一款基于pdf.js的vue pdf查看组件",
+  "keywords": [
+    "vue",
+    "pdf",
+    "viewer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vue-pdf-shower",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
